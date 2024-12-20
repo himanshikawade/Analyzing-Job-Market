@@ -46,5 +46,5 @@ Here’s what you’ll find in this repository:
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/yourusername/Analyzing-Job-Market-Data-PowerBI.git  
-cd Analyzing-Job-Market-Data-PowerBI  
+git clone https://github.com/yourusername/Analyzing-Job-Market.git  
+cd Analyzing-Job-Market  
